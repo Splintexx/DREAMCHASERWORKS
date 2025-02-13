@@ -1,4 +1,3 @@
-About This Project
 This is a simple, modern landing page created for Dreamchaser Works Inc. The page is built using just HTML, CSS, and JavaScript - no frameworks or external libraries needed. It's designed to be easy to set up and customize.
 What's Included
 The landing page features a clean, professional design with:
