@@ -26,5 +26,5 @@ Modifying testimonials: Add or remove testimonials in the testimonials section
 Browser Support
 The page works great on all modern browsers including Chrome, Firefox, Safari, and Edge, as well as mobile browsers.
 Need Help?
-For any questions or support, you can reach out to hello@dreamchaserworks.com
+For any questions or support, you can reach out to farukismail2019@gmail.com
 This landing page is open source - feel free to use it, modify it, and make it your own!
